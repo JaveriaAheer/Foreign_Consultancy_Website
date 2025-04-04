@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    align-items: center;
+    margin: -10px -70px ;
+    position: relative;
+    margin-top: -140px;
+
+}
+.f-content{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 120px;
+    gap: 80px;
+    color:white;
+    cursor: pointer;
+}
+.fa-icons{
+    display: flex;
+    gap: 80px;
+    cursor: pointer;
+}
